@@ -1,4 +1,7 @@
 # EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
+
+### Nmae : YUVARAJ S
+### Register Number : 212222240119
 ### Date: 
 
 ### AIM:
